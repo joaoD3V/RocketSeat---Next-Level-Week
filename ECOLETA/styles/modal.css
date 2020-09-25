@@ -13,6 +13,10 @@
     transition: 400ms;
 }
 
+#modal.hide{
+    display: none;
+}
+
 #modal .content{
     color: white;
     width: 420px;
@@ -85,3 +89,4 @@
 #modal form button:hover{
     background-color: #2fb85e;
 }
+
